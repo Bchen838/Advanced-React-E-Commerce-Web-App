@@ -28,7 +28,7 @@ Global shopping cart state is managed using Redux Toolkit, while sessionStorage 
 4. npm run dev
 
 
-## Feature Improvements
+## Future Improvements
 1. Add User Authentication
 2. Implement backend order processing
 3. Add product search and sorting functionality
